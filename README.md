@@ -5,7 +5,7 @@ Welcome to Galaxy Shooter, a simple space shooting game developed in Unity and a
 Galaxy Shooter is a classic arcade-style game where you pilot a spaceship through an galaxy filled with enemy ships. Your mission is to survive as long as possible and shoot down enemy ships. The longer you survive and the more enemies you destroy, the higher your score will be.
 
 ## How to Play
-To play the game you need to dowland all the content from the 'Galaxy_Shooter' folder. Start the game by cliking 'GalaxyShooter.html'(you will need supports for WebGL or you can host it on a local servers)
+To play the game you need to dowland all the content from the 'GalaxyShooter' folder. Start the game by cliking 'index.html'(you will need supports for WebGL or you can host it on a local servers)
 ### Controls
   - ASDW keys: Move the spaceship.
   - Spacebar: Fire lasers to destroy enemy ships and asteroids.
